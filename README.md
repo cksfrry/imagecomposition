@@ -2,4 +2,4 @@
 
 ## Image Composition Example
 
-## Ref : https://het.as.utexas.edu/HET/Software/html/painting-imagecomposition.html
+## Ref : https://doc.qt.io/archives/qt-4.8/qt-painting-imagecomposition-example.html
